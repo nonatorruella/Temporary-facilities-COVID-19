@@ -1,0 +1,83 @@
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (win64)
+Thread count: 4 physical cores, 8 logical processors, using up to 8 threads
+Optimize a model with 26 rows, 170 columns and 330 nonzeros
+Model fingerprint: 0x3abb5719
+Variable types: 165 continuous, 5 integer (5 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+02]
+  Objective range  [6e-02, 1e+09]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e+00, 5e+01]
+Presolve time: 0.00s
+Presolved: 26 rows, 170 columns, 330 nonzeros
+Variable types: 165 continuous, 5 integer (5 binary)
+
+Root relaxation: objective 4.152525e+05, 33 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0 415252.488    0    1          - 415252.488      -     -    0s
+H    0     0                    500252.48759 415252.488  17.0%     -    0s
+
+Explored 1 nodes (33 simplex iterations) in 0.02 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 500252 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 5.002524875905e+05, best bound 5.002524875905e+05, gap 0.0000%
+
+
+_____________Optimal costs______________________
+The total cost of building COVID-19 temporary healthcare facilities is €500,000.0
+The total cost of allocating COVID-19 patients to healthcare facilities is $240.0
+
+_____________Plan for temporary facilities______________________
+Build a temporary facility at location Fira de Barcelona
+
+_____________Plan to increase Capacity at temporary Facilities______________________
+
+_____________Allocation of ABS patients to COVID-19 healthcare facility______________________
+20 COVID-19 patients from CAP RAMBLA (Terrassa) are treated at facility Hospital Terrassa 
+10 COVID-19 patients from CAP SANT LLÀTZER (Terrassa) are treated at facility Hospital Terrassa 
+20 COVID-19 patients from CAP CAN TRIES (Terrassa) are treated at facility Hospital Terrassa 
+50 is the total number of COVID-19 patients that are treated at facility Hospital Terrassa. 
+
+________________________________________________________________________________
+5 COVID-19 patients from CAP GRÀCIA (Sabadell) are treated at facility Hospital Taulí 
+30 COVID-19 patients from CAP SANT FÈLIX (Sabadell) are treated at facility Hospital Taulí 
+35 is the total number of COVID-19 patients that are treated at facility Hospital Taulí. 
+
+________________________________________________________________________________
+4 COVID-19 patients from CAP SANT ROC (Badalona) are treated at facility Hospital del Mar 
+10 COVID-19 patients from CAP LA SALUT (Badalona) are treated at facility Hospital del Mar 
+6 COVID-19 patients from CAP BUFALÀ (Badalona) are treated at facility Hospital del Mar 
+20 is the total number of COVID-19 patients that are treated at facility Hospital del Mar. 
+
+________________________________________________________________________________
+7 COVID-19 patients from CAP GRÀCIA (Sabadell) are treated at facility Hospital de Barcelona 
+5 COVID-19 patients from CAP CAN TRIES (Terrassa) are treated at facility Hospital de Barcelona 
+12 is the total number of COVID-19 patients that are treated at facility Hospital de Barcelona. 
+
+________________________________________________________________________________
+30 COVID-19 patients from CAP CREU ALTA (Sabadell) are treated at facility Hospital Badalona 
+30 is the total number of COVID-19 patients that are treated at facility Hospital Badalona. 
+
+________________________________________________________________________________
+2 COVID-19 patients from CAP BARCELONETA (Barcelona) are treated at facility Fira de Barcelona 
+25 COVID-19 patients from CAP PASSEIG MARAGALL (Barcelona) are treated at facility Fira de Barcelona 
+10 COVID-19 patients from CAP EL GUINARDO (Barcelona) are treated at facility Fira de Barcelona 
+20 COVID-19 patients from CAP LARRARD (Barcelona) are treated at facility Fira de Barcelona 
+20 COVID-19 patients from CAP SANT FÈLIX (Sabadell) are treated at facility Fira de Barcelona 
+40 COVID-19 patients from CAP SANTA EULÀLIA (Hospitalet) are treated at facility Fira de Barcelona 
+10 COVID-19 patients from CAP COLLBLANC (Hospitalet) are treated at facility Fira de Barcelona 
+10 COVID-19 patients from CAP GORNAL (Hospitalet) are treated at facility Fira de Barcelona 
+29 COVID-19 patients from CAP BUFALÀ (Badalona) are treated at facility Fira de Barcelona 
+166 is the total number of COVID-19 patients that are treated at facility Fira de Barcelona. 
+
+________________________________________________________________________________
+
+_____________Test demand = supply______________________
+Total demand is: 313 patients
+Total demand satisfied is: 313 beds
