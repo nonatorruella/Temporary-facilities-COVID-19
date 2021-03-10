@@ -1,4 +1,4 @@
-Hello :) 
+Hello!
 
 The input data file can be modified as you want, but make sure the coordinates are separated by a comma, in the format: 41.5624, 2.0109. When adding the costs do not add the symbol of the currency, just the amount! It is also important that the header,names and distribution are not changed, otherwise the model will not understand the input data.
 
