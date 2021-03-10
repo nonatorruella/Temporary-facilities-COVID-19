@@ -7,8 +7,7 @@ files here that can execute the model if Python and Gurobi are installed. I have
 
 (1) The .ipynb file: with a notebook viewer, the details and main comments can be seen.It can be seen just by clicking it here in github.
 
-(2) In the executable folder: executable/temp_facilities.py. With python installed, this can 
-run easily in the command prompt.
+(2) temp_facilities.py. With python installed, this can run easily in the command prompt.
 
 I have added the results of a simulation we did, in the output_temporary_facilities.txt with the data in the input Excel file.
 
