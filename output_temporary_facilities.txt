@@ -30,8 +30,8 @@ Best objective 5.002524875905e+05, best bound 5.002524875905e+05, gap 0.0000%
 
 
 _____________Optimal costs______________________
-The total cost of building COVID-19 temporary healthcare facilities is €500,000.0
-The total cost of allocating COVID-19 patients to healthcare facilities is $240.0
+The total cost of building COVID-19 temporary healthcare facilities is â‚¬500,000.0
+The total cost of allocating COVID-19 patients to healthcare facilities is â‚¬240.0
 
 _____________Plan for temporary facilities______________________
 Build a temporary facility at location Fira de Barcelona
@@ -40,23 +40,23 @@ _____________Plan to increase Capacity at temporary Facilities__________________
 
 _____________Allocation of ABS patients to COVID-19 healthcare facility______________________
 20 COVID-19 patients from CAP RAMBLA (Terrassa) are treated at facility Hospital Terrassa 
-10 COVID-19 patients from CAP SANT LLÀTZER (Terrassa) are treated at facility Hospital Terrassa 
+10 COVID-19 patients from CAP SANT LLÃ€TZER (Terrassa) are treated at facility Hospital Terrassa 
 20 COVID-19 patients from CAP CAN TRIES (Terrassa) are treated at facility Hospital Terrassa 
 50 is the total number of COVID-19 patients that are treated at facility Hospital Terrassa. 
 
 ________________________________________________________________________________
-5 COVID-19 patients from CAP GRÀCIA (Sabadell) are treated at facility Hospital Taulí 
-30 COVID-19 patients from CAP SANT FÈLIX (Sabadell) are treated at facility Hospital Taulí 
-35 is the total number of COVID-19 patients that are treated at facility Hospital Taulí. 
+5 COVID-19 patients from CAP GRÃ€CIA (Sabadell) are treated at facility Hospital TaulÃ­ 
+30 COVID-19 patients from CAP SANT FÃˆLIX (Sabadell) are treated at facility Hospital TaulÃ­ 
+35 is the total number of COVID-19 patients that are treated at facility Hospital TaulÃ­. 
 
 ________________________________________________________________________________
 4 COVID-19 patients from CAP SANT ROC (Badalona) are treated at facility Hospital del Mar 
 10 COVID-19 patients from CAP LA SALUT (Badalona) are treated at facility Hospital del Mar 
-6 COVID-19 patients from CAP BUFALÀ (Badalona) are treated at facility Hospital del Mar 
+6 COVID-19 patients from CAP BUFALÃ€ (Badalona) are treated at facility Hospital del Mar 
 20 is the total number of COVID-19 patients that are treated at facility Hospital del Mar. 
 
 ________________________________________________________________________________
-7 COVID-19 patients from CAP GRÀCIA (Sabadell) are treated at facility Hospital de Barcelona 
+7 COVID-19 patients from CAP GRÃ€CIA (Sabadell) are treated at facility Hospital de Barcelona 
 5 COVID-19 patients from CAP CAN TRIES (Terrassa) are treated at facility Hospital de Barcelona 
 12 is the total number of COVID-19 patients that are treated at facility Hospital de Barcelona. 
 
@@ -69,11 +69,11 @@ ________________________________________________________________________________
 25 COVID-19 patients from CAP PASSEIG MARAGALL (Barcelona) are treated at facility Fira de Barcelona 
 10 COVID-19 patients from CAP EL GUINARDO (Barcelona) are treated at facility Fira de Barcelona 
 20 COVID-19 patients from CAP LARRARD (Barcelona) are treated at facility Fira de Barcelona 
-20 COVID-19 patients from CAP SANT FÈLIX (Sabadell) are treated at facility Fira de Barcelona 
-40 COVID-19 patients from CAP SANTA EULÀLIA (Hospitalet) are treated at facility Fira de Barcelona 
+20 COVID-19 patients from CAP SANT FÃˆLIX (Sabadell) are treated at facility Fira de Barcelona 
+40 COVID-19 patients from CAP SANTA EULÃ€LIA (Hospitalet) are treated at facility Fira de Barcelona 
 10 COVID-19 patients from CAP COLLBLANC (Hospitalet) are treated at facility Fira de Barcelona 
 10 COVID-19 patients from CAP GORNAL (Hospitalet) are treated at facility Fira de Barcelona 
-29 COVID-19 patients from CAP BUFALÀ (Badalona) are treated at facility Fira de Barcelona 
+29 COVID-19 patients from CAP BUFALÃ€ (Badalona) are treated at facility Fira de Barcelona 
 166 is the total number of COVID-19 patients that are treated at facility Fira de Barcelona. 
 
 ________________________________________________________________________________
