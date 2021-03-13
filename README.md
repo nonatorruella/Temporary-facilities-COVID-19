@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>&lt;title&gt; element</title>
-  </head>
   <body>
-    <h1>&lt;h1&gt; element</h1>
+    <h1>Temporary facilities allocation for Covid-19</h1>
   </body>
 </html>
 
