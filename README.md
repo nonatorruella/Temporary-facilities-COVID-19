@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <h1>Temporary facilities allocation for Covid-19</h1>
+    <h1>Temporary facilities allocation for COVID-19 - Analytics for Social Good Project</h1>
   </body>
 </html>
 
